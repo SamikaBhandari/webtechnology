@@ -1,0 +1,42 @@
+h1{
+    font-weight: bolder;
+    font-size: 4vw;   
+    padding: 2%;
+    margin-top: -42%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: bisque;
+    }
+    p{
+        font-weight: bolder;
+        font-size:larger;
+        padding-left: 2%;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: aliceblue;
+}
+img{
+background-repeat: no-repeat;
+object-fit: auto;
+width: 750px; 
+height: 620px;
+padding-left: 44%;
+}
+body{
+    background-color: rgb(59, 18, 18);
+}
+
+    
+.my-topright{
+padding:1%;
+text-align: center;
+font-size: 25px;
+font-family: 'Times New Roman', Times, serif;
+background-color: rgb(67, 21, 143);
+color: rgb(69, 10, 231);
+border: 1px solid green;
+cursor: pointer;
+margin-left: 5%;
+margin-top: 5%;
+text-decoration: solid;
+font-weight: bolder;
+
+}

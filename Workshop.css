@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(2, 50, 2);
+ font-family:'Times New Roman', Times, serif;
+    background-image: url('WW.png');
+    background-repeat: no-repeat;
+    background-size: 50% 130%;
+    background-position: right;
+}
+.Mood{
+    margin-right: 43%;
+}
+p{
+    color: white;
+    margin-right: 150px;
+    margin-left: 50px;
+}
+.Selling{
+    font-size :4em; 
+    font-weight: 900;
+}
+.e-Commerce{
+    font-size: 25px;
+    margin-bottom: 100px;
+    position: relative; top: -40px;
+  
+}
+.September{
+    position: relative; top: -80px;
+    font-size: large;
+}
+.button {
+    background-color: #f9f906;
+    border:green;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 50px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 150px;
+    margin-left: 50px;
+    position: relative; top: -45px;
+}

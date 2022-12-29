@@ -1,0 +1,44 @@
+body{
+    background-color: yellow;
+}
+{
+box-sizing:border-box;
+}
+img {
+    border-radius: 8px;
+    width: 250px;
+    height: 300px;
+    object-fit: cover; 
+    padding-bottom: 20px;
+    
+    }
+    .Mood{
+        display: flex;}
+
+
+.Leslie{
+    float: left;
+    width: 33.33%;
+   padding:5%;
+   text-align: center;
+   
+}
+.Nicholos{
+    width:33.33%;
+    margin:0 auto;
+    padding:5%;
+    text-align: center;
+    
+}
+
+.Kin{
+   float:right;
+    width:33.33%;
+    padding:5%;
+    text-align: center;
+   
+    
+}
+h1{
+    text-align: center;
+}
